@@ -23,4 +23,4 @@ async def hello(ctx):
     await ctx.send("Choo choo! 🚅")
 
 
-bot.run(os.environ["DISCORD_TOKEN"])
+bot.run(os.environ["OTk0MDc1Mzc4MTY5NjkyMjgy.GGGJwY.pjbxp8U8CYhD8Rxye6l2kuZjJSFyeMuS06KaEA"])
